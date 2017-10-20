@@ -28,10 +28,12 @@ seaborn: https://seaborn.pydata.org/
 
 To run the model make sure the above dependencies are met and the dataset from [http://www2.aueb.gr/users/ion/data/enron-spam/] is at /home destination. 
 For linux environment use the chmod to grant execution permission
+ 
  sudo chmod 777 spam-filter_classifier.py 
-Then just type 
 
- python3 spam-filter_classifier.py // for Python 3 developemnt
+Then type 
+
+ python3 spam-filter_classifier.py     // for Python 3 developemnt
 
 The finding and analysis are available at spam-filter_classifier.pdf.
 
